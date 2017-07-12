@@ -1,5 +1,8 @@
-package io.pivotal.pal.tracker;
+package io.pivotal.pal.trackertest;
 
+import io.pivotal.pal.tracker.TimeEntry;
+import io.pivotal.pal.tracker.TimeEntryHealthIndicator;
+import io.pivotal.pal.tracker.TimeEntryRepository;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;
